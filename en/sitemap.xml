@@ -50,6 +50,18 @@
                 href="https://spmbitphys.github.io/zh-cn/join/"
                 />
   </url><url>
+    <loc>https://spmbitphys.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://spmbitphys.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://spmbitphys.github.io/zh-cn/"
+                />
+  </url><url>
     <loc>https://spmbitphys.github.io/publications/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,18 +108,6 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://spmbitphys.github.io/zh-cn/team/"
-                />
-  </url><url>
-    <loc>https://spmbitphys.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://spmbitphys.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://spmbitphys.github.io/zh-cn/"
                 />
   </url>
 </urlset>

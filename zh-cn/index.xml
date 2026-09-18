@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>王东飞课题组 on </title>
+    <title>先进低维材料制造与成像实验室 on </title>
     <link>https://spmbitphys.github.io/zh-cn/</link>
-    <description>Recent content in 王东飞课题组 on </description>
+    <description>Recent content in 先进低维材料制造与成像实验室 on </description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <atom:link href="https://spmbitphys.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/zh-cn/join/</guid>
       <description>&lt;p&gt;实验室长期招收对扫描探针显微术和表面物理感兴趣、且有动力从事科学研究的研究生。本研究组同时可为本科生提供课题完成毕业设计。&lt;/p&gt;
-&lt;p&gt;请将简历发送至：&lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;请将简历发送至：&lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt; / &lt;strong&gt;wdxiao AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>团队成员</title>
@@ -21,28 +21,64 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/zh-cn/team/</guid>
       <description>&lt;h2 id=&#34;研究组负责人&#34;&gt;研究组负责人&lt;/h2&gt;
-&lt;div class=&#34;team-grid single&#34;&gt;
-&lt;div class=&#34;team-member&#34;&gt;
-  &lt;img src=&#34;https://spmbitphys.github.io/images/group/dfwang1.jpg&#34; alt=&#34;王东飞&#34;&gt;
-  &lt;h3&gt;王东飞 教授&lt;/h3&gt;
-  &lt;p&gt;北京理工大学物理学院 理学楼 B209&lt;/p&gt;
-  &lt;p&gt;北京市房山区良乡东路 8 号&lt;/p&gt;
-  &lt;p&gt;邮箱：dfwang AT bit.edu.cn&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;div class=&#34;team-grid&#34;&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/wende1.png&#34; alt=&#34;肖文德&#34;&gt;
+    &lt;h3&gt;肖文德 教授&lt;/h3&gt;
+    &lt;p&gt;北京理工大学物理学院 理教楼 B303&lt;/p&gt;
+    &lt;p&gt;北京市房山区良乡东路 8 号&lt;/p&gt;
+    &lt;p&gt;邮箱：wdxiao AT bit.edu.cn&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/szml/fgjzc/zgjzc01/64823e87f1e645b58901ceecbb79e2c4.htm&#34; target=&#34;_blank&#34;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;Google Scholar链接&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4786-719X&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;方向：大能隙拓扑材料的制备与物性；低维异质结构中新奇量子物态；表面超分子结构的构筑与物化特性 &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/dfwang1.jpg&#34; alt=&#34;王东飞&#34;&gt;
+    &lt;h3&gt;王东飞 教授&lt;/h3&gt;
+    &lt;p&gt;北京理工大学物理学院 理教楼 B209&lt;/p&gt;
+    &lt;p&gt;北京市房山区良乡东路 8 号&lt;/p&gt;
+    &lt;p&gt;邮箱：dfwang AT bit.edu.cn&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;方向：马约拉纳任意子；超导体及其异质结；非常规磁性；表面合成 &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;博士研究生&#34;&gt;博士研究生&lt;/h2&gt;
 &lt;div class=&#34;team-grid&#34;&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/fanrui1.jpg&#34; alt=&#34;樊锐&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/yuxiang1.jpg&#34; alt=&#34;玉翔&#34;&gt;
+    &lt;h3&gt;刘玉翔&lt;/h3&gt;
+    &lt;p&gt;2020 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120225797 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/peiyao1.jpg&#34; alt=&#34;佩瑶&#34;&gt;
+    &lt;h3&gt;肖佩瑶&lt;/h3&gt;
+    &lt;p&gt;2021 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120215751 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/xulin1.jpg&#34; alt=&#34;刘栩麟&#34;&gt;
+    &lt;h3&gt;刘栩麟&lt;/h3&gt;
+    &lt;p&gt;2024 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120241547 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/fanrui1.jpg&#34; alt=&#34;樊睿&#34;&gt;
     &lt;h3&gt;樊睿&lt;/h3&gt;
     &lt;p&gt;2024 年加入课题组&lt;/p&gt;
     &lt;p&gt;3120266188 AT bit.edu.cn&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/qishuo1.png&#34; alt=&#34;齐硕&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/haiqiao1.jpg&#34; alt=&#34;王海桥&#34;&gt;
+    &lt;h3&gt;王海桥&lt;/h3&gt;
+    &lt;p&gt;2024 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120246048 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/qishuo1.png&#34; alt=&#34;祁硕&#34;&gt;
     &lt;h3&gt;祁硕&lt;/h3&gt;
     &lt;p&gt;2025 年加入课题组&lt;/p&gt;
     &lt;p&gt;3120256234 AT bit.edu.cn&lt;/p&gt;
@@ -50,26 +86,7 @@
   &lt;div class=&#34;team-member&#34;&gt;
     &lt;img src=&#34;https://spmbitphys.github.io/images/group/zixuan1.png&#34; alt=&#34;王子璇&#34;&gt;
     &lt;h3&gt;王子轩&lt;/h3&gt;
-    &lt;p&gt;2026 年加入课题组&lt;/p&gt;
-    &lt;p&gt;3120266189 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;硕士研究生&#34;&gt;硕士研究生&lt;/h2&gt;
-&lt;div class=&#34;team-grid&#34;&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/minghui1.png&#34; alt=&#34;徐明慧&#34;&gt;
-    &lt;h3&gt;徐明慧&lt;/h3&gt;
-    &lt;p&gt;2025 年加入课题组&lt;/p&gt;
-    &lt;p&gt;3120251604 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/yuxuan1.jpg&#34; alt=&#34;李宇轩&#34;&gt;
-    &lt;h3&gt;李宇轩&lt;/h3&gt;
-    &lt;p&gt;2026 年加入课题组&lt;/p&gt;
-    &lt;p&gt;3120261574 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;已毕业学生&#34;&gt;已毕业学生&lt;/h2&gt;</description>
+    &lt;p&gt;2026 年加入课题组&lt;/p&gt;</description>
     </item>
     <item>
       <title>文章列表</title>
@@ -1199,18 +1216,18 @@
 &lt;h2 id=&#34;超导体中的马约拉纳物理&#34;&gt;超导体中的马约拉纳物理&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;拓扑超导体作为一类新兴的超导态，为研究拓扑学及宇称对称性提供了理想平台。它们还支持马约拉纳任意子的存在——这是一种自身即为其反粒子的准粒子，在容错量子计算中具有潜在应用。低温扫描隧道显微镜/谱（STM/STS）因其超高的空间和能量分辨率，是研究拓扑超导态的重要实验手段。我们的研究聚焦于利用先进的 STM 技术，如自旋极化 STM，来研究拓扑超导体候选材料中马约拉纳任意子的磁场响应。此外，我们探索操控马约拉纳任意子并实现其融合的可能性。本研究得到国家自然科学基金的支持。&lt;/p&gt;
+&lt;p&gt;拓扑超导体作为一类新兴的超导态，为研究拓扑学及宇称对称性提供了理想平台。它们还支持马约拉纳任意子的存在——这是一种自身即为其反粒子的准粒子，在容错量子计算中具有潜在应用。低温扫描隧道显微镜/谱（STM/STS）因其超高的空间和能量分辨率，是研究拓扑超导态的重要实验手段。我们的研究聚焦于利用先进的 STM 技术，如自旋极化 STM，来研究拓扑超导体候选材料中马约拉纳任意子的磁场响应。此外，我们探索操控马约拉纳任意子并实现其融合的可能性。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;先进低维材料制备&#34;&gt;先进低维材料制备&lt;/h2&gt;
+&lt;h2 id=&#34;先进低维材料制备与成像&#34;&gt;先进低维材料制备与成像&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;近年来，低维量子材料因其独特的电子性质和潜在的器件应用而受到广泛关注。与传统电子材料相比，低维量子材料在维度降低和量子限域效应的影响下展现出许多新颖的电子特性和优势。例如，一维碳纳米管具有高载流子迁移率和机械强度；二维石墨烯和过渡金属硫族化合物（TMD）是研究量子霍尔效应和分数量子霍尔效应等新颖电子特性的理想平台；三维拓扑绝缘体具有拓扑保护的、自旋轨道锁定的表面态。对低维量子材料的研究有望为从计算到能源等广泛领域带来诸多潜在技术进步。&lt;/p&gt;
 &lt;p&gt;目前，我们关注以下三个研究方向：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;非常规磁性薄膜的 MBE 生长。&lt;/li&gt;
-&lt;li&gt;杂化体系的构建：利用近邻效应，我们希望将各种材料的优势结合起来。我们尤其感兴趣的是构建基于超导衬底的异质结构。&lt;/li&gt;
-&lt;li&gt;表面合成：碳基磁性为基于有机材料构建自旋逻辑器件提供了可能。我们的研究聚焦于石墨烯纳米结构的合成与表征，例如石墨烯纳米带和纳米石墨烯。&lt;/li&gt;
+&lt;li&gt;非常规磁性薄膜、大能隙拓扑材料及低维关联材料的 MBE 生长。&lt;/li&gt;
+&lt;li&gt;杂化体系的构建：利用近邻效应，我们希望将各种材料的优势结合起来。我们尤其感兴趣的是构建基于超导或磁性衬底的异质结构。&lt;/li&gt;
+&lt;li&gt;表面分子合成与组装：碳基磁性为基于有机材料构建自旋逻辑器件提供了可能，我们的研究聚焦于石墨烯纳米结构的合成与表征，例如石墨烯纳米带和纳米石墨烯。另一方面，我们聚焦表面低维超分子结构的构筑与物化特性。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1226,12 +1243,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/zh-cn/instrumentation/</guid>
       <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
-&lt;p&gt;课题组运行并维护多台低维量子材料制备及成像设备，包括：一套 1K–8T 的 STM/AFM系统，两套 MBE 系统，一套室温 AFM-MFM 系统。&lt;/p&gt;
+&lt;p&gt;本研究组运行并维护多台低维量子材料制备及成像设备，包括：一套 1K–8T 的 STM/AFM-MBE系统，两套 4K 的STM-MBE联合系统，三套 UHV-MBE 系统，一套室温 AFM-MFM 系统，一套室温 STM 系统。&lt;/p&gt;
 &lt;h2 id=&#34;扫描隧道显微镜原子力显微镜&#34;&gt;扫描隧道显微镜/原子力显微镜&lt;/h2&gt;
 &lt;figure class=&#34;align-center justify-caption&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/Quanta.jpg#center&#34;
          alt=&#34;这是一台定制设计的 STM，最低温度 1.2 K，磁场 8 T。它还能通过 SP-STM 模式实现表面磁性成像，以及通过 nc-AFM 模式实现分子化学键成像。此外，有两条高频线路连接至隧穿结，微波频率高于 20 GHz。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
             Quanta&lt;p&gt;这是一台定制设计的 STM，最低温度 1.2 K，磁场 8 T。它还能通过 SP-STM 模式实现表面磁性成像，以及通过 nc-AFM 模式实现分子化学键成像。此外，有两条高频线路连接至隧穿结，微波频率高于 20 GHz。&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/Tracer.jpg#center&#34;
+         alt=&#34;这是第一台自主搭建的 STM，最低温度 4 K，配备有完整的MBE腔室，可实现低维材料的原位生长与成像。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            Tracer&lt;p&gt;这是第一台自主搭建的 STM，最低温度 4 K，配备有完整的MBE腔室，可实现低维材料的原位生长与成像。&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/Seeker.jpg#center&#34;
+         alt=&#34;这是第二台自主搭建的 STM，最低温度 4 K，配备有完整的MBE腔室，可实现低维材料的原位生长与成像。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            Seeker&lt;p&gt;这是第二台自主搭建的 STM，最低温度 4 K，配备有完整的MBE腔室，可实现低维材料的原位生长与成像。&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1246,14 +1277,7 @@
 &lt;figure class=&#34;align-center justify-caption&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/MBE1.jpg#center&#34;
          alt=&#34;这是一套自主搭建的 MBE 系统。它的超高真空腔体较小，最多可安装 7 个蒸发源。样品可加热至 1800 度。使用微型石英晶振仪校准材料沉积速率。可通过超高真空传递包实现原位样品转移。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
-            MBE1&lt;p&gt;这是一套自主搭建的 MBE 系统。它的超高真空腔体较小，最多可安装 7 个蒸发源。样品可加热至 1800 度。使用微型石英晶振仪校准材料沉积速率。可通过超高真空传递包实现原位样品转移。&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&#34;align-center justify-caption&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/MBE2.jpg#center&#34;
-         alt=&#34;这是第二套自主搭建的 MBE 系统，与北京理工大学的肖文德教授合作研制。它的腔体更大，最多可安装 8 个蒸发源。样品可加热至 1800 度，并可通过离子溅射枪清洗。使用微型石英晶振仪校准材料沉积速率。它还保留了 RHEED 接口，用于进一步监测薄膜生长。可通过超高真空传递包实现原位样品转移。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
-            MBE2&lt;p&gt;这是第二套自主搭建的 MBE 系统，与北京理工大学的肖文德教授合作研制。它的腔体更大，最多可安装 8 个蒸发源。样品可加热至 1800 度，并可通过离子溅射枪清洗。使用微型石英晶振仪校准材料沉积速率。它还保留了 RHEED 接口，用于进一步监测薄膜生长。可通过超高真空传递包实现原位样品转移。&lt;/p&gt;</description>
+            MBE1&lt;p&gt;这是一套自主搭建的 MBE 系统。它的超高真空腔体较小，最多可安装 7 个蒸发源。样品可加热至 1800 度。使用微型石英晶振仪校准材料沉积速率。可通过超高真空传递包实现原位样品转移。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

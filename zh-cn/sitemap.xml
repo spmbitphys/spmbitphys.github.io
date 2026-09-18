@@ -50,18 +50,6 @@
                 href="https://spmbitphys.github.io/zh-cn/team/"
                 />
   </url><url>
-    <loc>https://spmbitphys.github.io/zh-cn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://spmbitphys.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://spmbitphys.github.io/zh-cn/"
-                />
-  </url><url>
     <loc>https://spmbitphys.github.io/zh-cn/publications/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,6 +60,18 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://spmbitphys.github.io/zh-cn/publications/"
+                />
+  </url><url>
+    <loc>https://spmbitphys.github.io/zh-cn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://spmbitphys.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://spmbitphys.github.io/zh-cn/"
                 />
   </url><url>
     <loc>https://spmbitphys.github.io/zh-cn/gallery/</loc>

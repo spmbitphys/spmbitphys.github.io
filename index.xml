@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wang Group</title>
+    <title>Low-dimensional Quantum Material Group on SPM@BITPHYS</title>
     <link>https://spmbitphys.github.io/</link>
-    <description>Recent content on Wang Group</description>
+    <description>Recent content in Low-dimensional Quantum Material Group on SPM@BITPHYS</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="https://spmbitphys.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -1107,7 +1107,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/instrumentation/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;We operate and maintain several facilities, including: one 1K-8T STM-AFM, two MBE systems, one RT AFM-MFM system.&lt;/p&gt;
+&lt;p&gt;We operate and maintain several facilities, including: one 1K-8T STM-AFM system, two 4K STM systems with MBE chambers，Three UHV-MBE systems, one RT AFM-MFM system, one RT STM system.&lt;/p&gt;
 &lt;h2 id=&#34;stmafm&#34;&gt;STM/AFM&lt;/h2&gt;
 &lt;figure class=&#34;align-center justify-caption&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;https://spmbitphys.github.io/images/instrumentation/Quanta.jpg#center&#34;
@@ -1120,7 +1120,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/join/</guid>
       <description>&lt;p&gt;We are always looking for motivated students interested in scanning probe microscopy and surface physics.&lt;/p&gt;
-&lt;p&gt;Please send your CV to: &lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;Please send your CV to: &lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt; / &lt;strong&gt;wdxiao AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -1156,54 +1156,36 @@
 &lt;h2 id=&#34;majorana-physics-in-superconductors&#34;&gt;Majorana Physics in superconductors&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Topological superconductors, as an emergent class of superconducting states, provides an ideal platform for the investigation of topology as well as parity symmetry. They also support the existence of Majorana anyons, quasiparticles that are their own antiparticles, with potential applications in fault-tolerant quantum computation. Low temperature STM/STS are advanced experimental techniques widely used to study topological superconducting states due to their ultrahigh spatial and energy resolution. Our research is focusing on using advanced STM technique, such as Spin-polarized STM, to image the magnetic field response of such anyons in topological superconductor candidates. Further more, we seek the possibility to manipulates Majorana anyons and make fusions with them.
-This research is supported by the National Science Foundation of China.&lt;/p&gt;</description>
+&lt;p&gt;Topological superconductors, as an emergent class of superconducting states, provides an ideal platform for the investigation of topology as well as parity symmetry. They also support the existence of Majorana anyons, quasiparticles that are their own antiparticles, with potential applications in fault-tolerant quantum computation. Low temperature STM/STS are advanced experimental techniques widely used to study topological superconducting states due to their ultrahigh spatial and energy resolution. Our research is focusing on using advanced STM technique, such as Spin-polarized STM, to image the magnetic field response of such anyons in topological superconductor candidates. Further more, we seek the possibility to manipulates Majorana anyons and make fusions with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Team</title>
       <link>https://spmbitphys.github.io/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://spmbitphys.github.io/team/</guid>
-      <description>&lt;h2 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h2&gt;
-&lt;div class=&#34;team-grid single&#34;&gt;
-&lt;div class=&#34;team-member&#34;&gt;
-  &lt;img src=&#34;https://spmbitphys.github.io/images/group/dfwang1.jpg&#34; alt=&#34;Dongfei Wang&#34;&gt;
-  &lt;h3&gt;Prof. Dongfei Wang&lt;/h3&gt;
-  &lt;p&gt;Lixuelou B209, School of Physics, BIT&lt;/p&gt;
-  &lt;p&gt;No.8, Liangxiang East Road, Fangshan District, Beijing&lt;/p&gt;
-  &lt;p&gt;Email: dfwang AT bit.edu.cn&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;Personal Website&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;phd-students&#34;&gt;PhD Students&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;principal-investigators&#34;&gt;Principal Investigators&lt;/h2&gt;
 &lt;div class=&#34;team-grid&#34;&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/fanrui1.jpg&#34; alt=&#34;Student One&#34;&gt;
-    &lt;h3&gt;Rui Fan&lt;/h3&gt;
-    &lt;p&gt;Group member since 2024&lt;/p&gt;
-    &lt;p&gt;3120266188 AT bit.edu.cn&lt;/p&gt;
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/wende1.png&#34; alt=&#34;Wende Xiao&#34;&gt;
+    &lt;h3&gt;Prof. Wende Xiao&lt;/h3&gt;
+    &lt;p&gt;Lixuelou B303, School of Physics, BIT&lt;/p&gt;
+    &lt;p&gt;No.8, Liangxiang East Road, Fangshan District, Beijing&lt;/p&gt;
+    &lt;p&gt;Email: wdxiao AT bit.edu.cn&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/szml/fgjzc/zgjzc01/64823e87f1e645b58901ceecbb79e2c4.htm&#34; target=&#34;_blank&#34;&gt;Personal Website&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;Google Scholar链接&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4786-719X&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Directions: Large gap topological insulator, low-dimensional material fabrication and imaging, molecules on surface&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/qishuo1.png&#34; alt=&#34;Student Two&#34;&gt;
-    &lt;h3&gt;Shuo Qi&lt;/h3&gt;
-    &lt;p&gt;Group member since 2025&lt;/p&gt;
-    &lt;p&gt;3120256234 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/zixuan1.png&#34; alt=&#34;Student Three&#34;&gt;
-    &lt;h3&gt;Zixuan Wang&lt;/h3&gt;
-    &lt;p&gt;Group member since 2026&lt;/p&gt;
-    &lt;p&gt;3120266189 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;masters-students&#34;&gt;Master&amp;rsquo;s Students&lt;/h2&gt;
-&lt;div class=&#34;team-grid&#34;&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://spmbitphys.github.io/images/group/minghui1.png&#34; alt=&#34;Master One&#34;&gt;
-    &lt;h3&gt;Minghui Xu&lt;/h3&gt;
-    &lt;p&gt;Group member since 2025&lt;/p&gt;</description>
+    &lt;img src=&#34;https://spmbitphys.github.io/images/group/dfwang1.jpg&#34; alt=&#34;Dongfei Wang&#34;&gt;
+    &lt;h3&gt;Prof. Dongfei Wang&lt;/h3&gt;
+    &lt;p&gt;Lixuelou B209, School of Physics, BIT&lt;/p&gt;
+    &lt;p&gt;No.8, Liangxiang East Road, Fangshan District, Beijing&lt;/p&gt;
+    &lt;p&gt;Email: dfwang AT bit.edu.cn&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;Personal Website&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Directions: Majorana, superconductor and its hybrid system, unconventional magnetism, on-surface synthesis&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
