@@ -1,0 +1,3 @@
+body:has(h1:contains("Publications")) .post-content p {
+  text-align: justify;
+}
